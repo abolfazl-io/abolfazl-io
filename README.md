@@ -1,6 +1,6 @@
 <p align="center">
-![Gemini_Generated_Image_n6ol4zn6ol4zn6ol](https://github.com/user-attachments/assets/3b914256-23cc-4755-9354-64f4eafaf62e)
-</p> 
+  <img src="https://github.com/user-attachments/assets/3b914256-23cc-4755-9354-64f4eafaf62e" alt="Abolfazl Amarloyi Profile Banner" width="100%">
+</p>
 <h1 align="center">
   Hi there, I'm Abolfazl Amarloyi 👋
 </h1>
