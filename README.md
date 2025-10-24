@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1024" height="1024" alt="Gemini_Generated_Image_n6ol4zn6ol4zn6ol" src="https://github.com/user-attachments/assets/9fe5393e-54a6-4108-90bf-c8b42ffa63fe" />
+![Gemini_Generated_Image_n6ol4zn6ol4zn6ol](https://github.com/user-attachments/assets/8bf739df-1421-4530-bb34-22fc7b941b96)
 </p> 
 <h1 align="center">
   Hi there, I'm Abolfazl Amarloyi 👋
